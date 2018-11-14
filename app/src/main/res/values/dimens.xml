@@ -1,5 +1,6 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
+    <!-- Generic with ratio -->
     <dimen name="margin_small">4dp</dimen>
     <dimen name="margin_medium">8dp</dimen>
     <dimen name="margin_medium_2">16dp</dimen>
@@ -31,5 +32,13 @@
     <dimen name="text_big_2x">60sp</dimen>
     <dimen name="text_big_3x">80sp</dimen>
 
-    <dimen name="ted_talk_logo_size">300dp</dimen>
+    <!--App Specific-->
+    <dimen name="detail_margin_small">2dp</dimen>
+    <dimen name="background_talker_height">180dp</dimen>
+    <dimen name="separator_height">1dp</dimen>
+    <dimen name="dot_width">10dp</dimen>
+    <dimen name="dot_height">20dp</dimen>
+    <dimen name="collapsing_toolbar_height">220dp</dimen>
+    <dimen name="support_height">40dp</dimen>
+    <dimen name="content_height">250dp</dimen>
 </resources>
